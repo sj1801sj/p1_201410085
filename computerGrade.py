@@ -1,3 +1,6 @@
+import turtle
+wn=turtle.Screen()
+
 ﻿def computerGrade(marks):
    
     if(90<=marks and marks<=100):
